@@ -5,12 +5,11 @@
 }
 
 body{
+    max-width: 100%;
     background-color: #FFE4D6;
     font-family:'Mulish', sans-serif;
     box-shadow:inset 0px 0px 30px  rgba(0, 0, 0, 0.2);
     border: solid transparent 0.1rem;
-    
-
 }
 
 header{
@@ -640,6 +639,10 @@ footer{
 }
 
 @media(max-width: 768px){
+
+    body{
+        box-shadow:0px 0px 0px 0px inset rgba(0, 0, 0, 0.2)
+    }
 
     header{
         display: none;
