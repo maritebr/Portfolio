@@ -166,7 +166,7 @@ a{
     justify-content: center;
     padding: 10rem 0 8rem;
     background-color: #D1DDD1;
-    border: solid 1px;
+    /*border: solid 1px;*/
     box-shadow:-10px 0px 30px 1px inset rgba(0, 0, 0, 0.2)
 }
 
@@ -255,7 +255,7 @@ a{
     color: white;
     text-align: center;
     background-color: #eb9f92;
-    border: solid 1px;
+    /*border: solid 1px;*/
     box-shadow:-10px 0px 30px 1px inset rgba(0, 0, 0, 0.2)     
 }
 
