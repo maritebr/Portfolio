@@ -1,5 +1,4 @@
 # **Portfolio**
-Trabajo práctico final de Desarrollo Frontend correspondiente al Módulo 1 - HTML Y CSS 
 
 ### *Contenidos:*
 
