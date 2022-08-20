@@ -247,19 +247,6 @@ a{
     padding: 1rem; 
     /*border: 1px solid red;*/
 }
-.conocimiento-item {
-    background-color: black;
-    padding: 50px;
-    height: 245px;
-    width: 245px;
-    margin: 5px;
-    border-radius: 15px;
-    flex-grow: 0;
-    flex-shrink: 0;
-    text-align: center;
-    border: 15px solid black;
-    
-}
 
 /*------------------termina section de conocimientos*/
 
